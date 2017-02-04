@@ -1,0 +1,62 @@
+h4{
+    font-family:Oswald;
+    color: #cc6666;
+    font-size: 18px;
+}
+h1{
+text-align:center;
+}
+h1{
+    font-family:Bebas Neue;
+    color: Orange;
+    font-size:130px;
+}
+h2{
+text-align:center
+}
+h2{
+    font-family:Basic Title Font;
+    color: Red;
+    font-size:80px;
+}
+ol{
+    font-family:Oswald;
+    color: White;
+    font-size:30px;
+}
+p{
+    font-family:Verdana;
+    color: White;
+    font-size: 30px;
+}
+
+th{
+    font-family:Basic Title Font;
+    color: Red;
+    font-size:40px;
+}
+body{
+    background-image:url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a5110941191007.579bdda074b96.png");
+}
+li{
+    font-family:Verdana;
+}
+td{
+    font-family:Verdana;
+    color:white;
+}
+h5{
+    font-family:Basic Title Font;
+    color: Red;
+    font-size:60px;
+}
+h3{
+    font-family:Arial;
+    color: Purple;
+    font-size:30px;
+}
+h7{
+    font-family:Bebas Neue;
+    color: Red;
+    font-size:60px;
+}

@@ -1,0 +1,78 @@
+h4{
+    font-family:Oswald;
+    color: #cc6666;
+    font-size: 18px;
+}
+h1{
+text-align:center;
+}
+h1{
+    font-family:Arial;
+    color: Black;
+    font-size:150px;
+    
+}
+h2{
+text-align:center
+}
+h2{
+    font-family:Verdana;
+    color: Maroon;
+    font-size:80px;
+}
+ol{
+    font-family:Oswald;
+    color: Blue;
+    font-size:30px;
+}
+p{
+    font-family:Verdana;
+    color: Black
+    font-size: 30px;
+}
+
+th{
+    font-family:Basic Title Font\;
+    color: Maroon;
+    font-size:40px;
+
+}
+body{
+    background-image:url("https://screenshots.en.sftcdn.net/en/scrn/69719000/69719291/fifa-17-01-700x393.jpg");
+    background-attachment:fixed;
+    background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+ }
+li{
+    font-family:Verdana;
+    text-align:center;
+}
+td{
+    font-family:Verdana;
+    color:Maroon;
+    text-align:center;
+}
+h5{
+    font-family:Bebas Neue;
+    color: Maroon;
+    font-size:60px;
+    text-align:center;
+}
+h9{
+    font-family:Arial;
+    color: green;
+    font-size:30px;
+    text-align: right;
+}
+h7{
+    font-family:Bebas Neue;
+    color: Red;
+    font-size:60px;
+}
+h3{
+    font-family:Arial;
+    color: Purple;
+    font-size:50px;
+    text-align:center;
+}
+

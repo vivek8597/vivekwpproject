@@ -1,0 +1,74 @@
+h4{
+    font-family:Oswald;
+    color: white;
+    font-size: 18px;
+}
+
+h1{
+    font-family:Monotype Corsiva;
+    color: Black;
+    font-size:150px;
+    
+}
+h2{
+
+}
+h2{
+    font-family:Basic Title Font;
+    color: Maroon;
+    font-size:80px;
+}
+ol{
+    font-family:Arial;
+    color: Yellow;
+    font-size:30px;
+    
+}
+p{
+    font-family:Times New Roman;
+    color: Black
+    font-size: 30px;
+}
+
+th{
+    font-family:Basic Title Font\;
+    color: Maroon;
+    font-size:40px;
+
+}
+body{
+    background-color: orange;
+ }
+li{
+    font-family:Verdana;
+    text-align:center;
+}
+td{
+    font-family:Verdana;
+    color:Green;
+    
+}
+h5{
+    font-family:Bebas Neue;
+    color: Maroon;
+    font-size:80px;
+    
+}
+h9{
+    font-family:Arial;
+    color: green;
+    font-size:30px;
+    
+}
+h7{
+    font-family:Bebas Neue;
+    color: Red;
+    font-size:60px;
+}
+h3{
+    font-family:Arial;
+    color: Purple;
+    font-size:50px;
+    
+}
+
