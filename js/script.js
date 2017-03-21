@@ -12,11 +12,11 @@ document.addEventListener("DOMContentLoaded",
             function (res) {
               var message = 
                 res.firstName + " " + res.lastName
-              if (res.likesChineseFood) {
-                message += " likes Chinese food";
+              if (res.scored58/70inWebProgramming&60/70inOS) {
+                message += "";
               }
               else {
-                message += " doesn't like Chinese food";
+                message += " scored58/70inWebProgramming&60/70inOS ";
               }
               message += " and uses ";
               message += res.numberOfDisplays + 1;
