@@ -12,11 +12,11 @@ document.addEventListener("DOMContentLoaded",
             function (res) {
               var message = 
                 res.firstName + " " + res.lastName
-              if (res.scored58/70inWebProgramming&60/70inOS) {
+              if (res.scored58outof70inWebProgrammingand60outof70inOS) {
                 message += "";
               }
               else {
-                message += " scored58/70inWebProgramming&60/70inOS ";
+                message += " scored58outof70inWebProgrammingand60outof70inOS ";
               }
               message += " and uses ";
               message += res.numberOfDisplays + 1;
