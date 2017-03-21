@@ -12,15 +12,15 @@ document.addEventListener("DOMContentLoaded",
             function (res) {
               var message = 
                 res.firstName + " " + res.lastName
-              if (res.scored58outof70inWebProgrammingand60outof70inOS) {
-                message += "";
+              if (res.likesChineseFood) {
+                message += " likes Chinese food";
               }
               else {
-                message += " scored58outof70inWebProgrammingand60outof70inOS ";
+                message += " doesn't like Chinese food";
               }
-              message += " and scored scored 58 out of 70 in Web Programming and 60 out of 70 in OS ";
+              message += " and scored 50/70 in math ";
               message += res.numberOfDisplays + 1;
-              message += "and 60 out of 70 in OS";
+              message += " and 40/50 in Web Programming.";
 
               document.querySelector("#content")
                 .innerHTML = "<h2>" + message + "</h2>";
